@@ -1,0 +1,11 @@
+{
+  "name": "wow",
+  "url": "https://github.com/icheatatlan/wow.hx",
+  "license": "MIT",
+  "tags": ["game"],
+  "description": "World of Warcraft Addon API for Haxe",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "WIP",
+  "contributors": ["icheatatlan"]
+}
